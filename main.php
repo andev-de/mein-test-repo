@@ -1,4 +1,4 @@
-<?php	// changed: 22.02.01
+<?php	// changed: 22.02.01 (andev-branch 22.01.32)
 
 if (!defined('DOKU_INC')) die(); /* must be run from within DokuWiki */
 
